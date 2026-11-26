@@ -23,8 +23,6 @@ void functionMode()
   {
   case IDLE:
     break;
-  case IRREMOTE:
-    break;
   case OBSTACLE:
     obstacleAvoidanceMode();
     break;
