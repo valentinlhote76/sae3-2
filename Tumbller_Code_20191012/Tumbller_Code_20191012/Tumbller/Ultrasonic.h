@@ -69,7 +69,6 @@ void obstacleAvoidanceMode()
       break;
     }
   }
-}
 
 void measureDistance()
 {
