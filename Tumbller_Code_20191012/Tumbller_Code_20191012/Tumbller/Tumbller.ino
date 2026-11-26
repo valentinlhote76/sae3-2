@@ -157,7 +157,6 @@ void loop()
   voltageMeasure();
   setMotionState();
   functionMode();
-  checkObstacle();
   static unsigned long print_time;
   if (millis() - print_time > 100)
   {
